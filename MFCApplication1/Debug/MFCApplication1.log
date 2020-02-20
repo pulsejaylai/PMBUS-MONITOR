@@ -1,0 +1,14 @@
+﻿Build started 2017/3/29 10:22:42.
+     1>Project "E:\jay\jay\PMBUSMON\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\jay\jay\PMBUSMON\MFCApplication1\Debug\MFCApplication1.exe" /INCREMENTAL /NOLOGO WinI2CUSBpro.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\jay\jay\PMBUSMON\MFCApplication1\Debug\MFCApplication1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\jay\jay\PMBUSMON\MFCApplication1\Debug\MFCApplication1.lib" /MACHINE:X86 Debug\MFCApplication1.res
+         Debug\MFCApplication1.obj
+         Debug\MFCApplication1Dlg.obj
+         Debug\Source.obj
+         Debug\stdafx.obj
+         MFCApplication1.vcxproj -> E:\jay\jay\PMBUSMON\MFCApplication1\Debug\MFCApplication1.exe
+     1>Done Building Project "E:\jay\jay\PMBUSMON\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.56
